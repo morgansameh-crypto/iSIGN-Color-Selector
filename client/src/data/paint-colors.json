@@ -1,0 +1,1884 @@
+{
+  "colors": [
+    {
+      "code": "iSIGN3004",
+      "hex": "#E8E89A"
+    },
+    {
+      "code": "iSIGN3640",
+      "hex": "#E8E87D"
+    },
+    {
+      "code": "iSIGN40082",
+      "hex": "#D4D400"
+    },
+    {
+      "code": "iSIGN4032",
+      "hex": "#D4D400"
+    },
+    {
+      "code": "iSIGN40093",
+      "hex": "#D4D400"
+    },
+    {
+      "code": "iSIGN0282",
+      "hex": "#F0A800"
+    },
+    {
+      "code": "iSIGN3664",
+      "hex": "#98B8A8"
+    },
+    {
+      "code": "iSIGN4035",
+      "hex": "#9C8800"
+    },
+    {
+      "code": "iSIGN40071",
+      "hex": "#E8D400"
+    },
+    {
+      "code": "iSIGN40076",
+      "hex": "#E8E800"
+    },
+    {
+      "code": "iSIGN3006",
+      "hex": "#E8E800"
+    },
+    {
+      "code": "iSIGN40315",
+      "hex": "#E8D400"
+    },
+    {
+      "code": "iSIGN40348",
+      "hex": "#D4D400"
+    },
+    {
+      "code": "iSIGN40083",
+      "hex": "#E8E8B8"
+    },
+    {
+      "code": "iSIGN3467",
+      "hex": "#D4D4A0"
+    },
+    {
+      "code": "iSIGN3465",
+      "hex": "#A89860"
+    },
+    {
+      "code": "iSIGN3009",
+      "hex": "#888850"
+    },
+    {
+      "code": "iSIGN4037",
+      "hex": "#686840"
+    },
+    {
+      "code": "iSIGN4164",
+      "hex": "#585840"
+    },
+    {
+      "code": "iSIGN40346",
+      "hex": "#F0D400"
+    },
+    {
+      "code": "iSIGN40318",
+      "hex": "#F0C800"
+    },
+    {
+      "code": "iSIGN40319",
+      "hex": "#F0C000"
+    },
+    {
+      "code": "iSIGN9864",
+      "hex": "#F0C000"
+    },
+    {
+      "code": "iSIGN40088",
+      "hex": "#F0E8C0"
+    },
+    {
+      "code": "iSIGN3041",
+      "hex": "#F0C850"
+    },
+    {
+      "code": "iSIGN3031",
+      "hex": "#F0C040"
+    },
+    {
+      "code": "iSIGNA0489",
+      "hex": "#F0A040"
+    },
+    {
+      "code": "iSIGNA0695",
+      "hex": "#F09030"
+    },
+    {
+      "code": "iSIGN40217",
+      "hex": "#F09030"
+    },
+    {
+      "code": "iSIGN40364",
+      "hex": "#F09030"
+    },
+    {
+      "code": "iSIGN30621",
+      "hex": "#E8D8B0"
+    },
+    {
+      "code": "iSIGN50123",
+      "hex": "#989050"
+    },
+    {
+      "code": "iSIGNA0896",
+      "hex": "#686850"
+    },
+    {
+      "code": "iSIGN40078",
+      "hex": "#C8A000"
+    },
+    {
+      "code": "iSIGN40073",
+      "hex": "#C89800"
+    },
+    {
+      "code": "iSIGN3835",
+      "hex": "#B88800"
+    },
+    {
+      "code": "iSIGN50086",
+      "hex": "#887040"
+    },
+    {
+      "code": "iSIGN3836",
+      "hex": "#585048"
+    },
+    {
+      "code": "iSIGN30053",
+      "hex": "#E8B040"
+    },
+    {
+      "code": "iSIGN3050",
+      "hex": "#E8A030"
+    },
+    {
+      "code": "iSIGN3058",
+      "hex": "#F09840"
+    },
+    {
+      "code": "iSIGN40087",
+      "hex": "#F09030"
+    },
+    {
+      "code": "iSIGN3044",
+      "hex": "#E89030"
+    },
+    {
+      "code": "iSIGN3046",
+      "hex": "#C88030"
+    },
+    {
+      "code": "iSIGN3833",
+      "hex": "#B87830"
+    },
+    {
+      "code": "iSIGN3042",
+      "hex": "#A87430"
+    },
+    {
+      "code": "iSIGN50106",
+      "hex": "#686050"
+    },
+    {
+      "code": "iSIGN40359",
+      "hex": "#F0A040"
+    },
+    {
+      "code": "iSIGN40320",
+      "hex": "#F07030"
+    },
+    {
+      "code": "iSIGNA0686",
+      "hex": "#A87840"
+    },
+    {
+      "code": "iSIGN40097",
+      "hex": "#F0E8D0"
+    },
+    {
+      "code": "iSIGNA0725",
+      "hex": "#E8C8A0"
+    },
+    {
+      "code": "iSIGN40092",
+      "hex": "#E8D0B0"
+    },
+    {
+      "code": "iSIGN30630",
+      "hex": "#D8C0A8"
+    },
+    {
+      "code": "iSIGN30622",
+      "hex": "#D8C0A0"
+    },
+    {
+      "code": "iSIGN40080",
+      "hex": "#C8B090"
+    },
+    {
+      "code": "iSIGN30028",
+      "hex": "#E8C898"
+    },
+    {
+      "code": "iSIGNA0586",
+      "hex": "#F0A868"
+    },
+    {
+      "code": "iSIGN3839",
+      "hex": "#F09050"
+    },
+    {
+      "code": "iSIGN3845",
+      "hex": "#F08040"
+    },
+    {
+      "code": "iSIGNA0527",
+      "hex": "#F08858"
+    },
+    {
+      "code": "iSIGN3763",
+      "hex": "#F0C8B0"
+    },
+    {
+      "code": "iSIGN3844",
+      "hex": "#F0A878"
+    },
+    {
+      "code": "iSIGN3765",
+      "hex": "#F09878"
+    },
+    {
+      "code": "iSIGN3077",
+      "hex": "#E89060"
+    },
+    {
+      "code": "iSIGN30114",
+      "hex": "#C88858"
+    },
+    {
+      "code": "iSIGN3063",
+      "hex": "#986850"
+    },
+    {
+      "code": "iSIGN40089",
+      "hex": "#885848"
+    },
+    {
+      "code": "iSIGN30036",
+      "hex": "#706050"
+    },
+    {
+      "code": "iSIGNA30063",
+      "hex": "#605850"
+    },
+    {
+      "code": "iSIGN0306",
+      "hex": "#504848"
+    },
+    {
+      "code": "iSIGN30032",
+      "hex": "#E8B898"
+    },
+    {
+      "code": "iSIGN3491",
+      "hex": "#E8A888"
+    },
+    {
+      "code": "iSIGN3069",
+      "hex": "#F04020"
+    },
+    {
+      "code": "iSIGN30029",
+      "hex": "#E83820"
+    },
+    {
+      "code": "iSIGN30846",
+      "hex": "#D83020"
+    },
+    {
+      "code": "iSIGN3486",
+      "hex": "#B86858"
+    },
+    {
+      "code": "iSIGNA0509",
+      "hex": "#D84830"
+    },
+    {
+      "code": "iSIGN0530",
+      "hex": "#885048"
+    },
+    {
+      "code": "iSIGN30061",
+      "hex": "#584840"
+    },
+    {
+      "code": "iSIGN3513",
+      "hex": "#E8C8B8"
+    },
+    {
+      "code": "iSIGN3084",
+      "hex": "#F08860"
+    },
+    {
+      "code": "iSIGN0508",
+      "hex": "#F06030"
+    },
+    {
+      "code": "iSIGN3078",
+      "hex": "#F06830"
+    },
+    {
+      "code": "iSIGN30436",
+      "hex": "#E84830"
+    },
+    {
+      "code": "iSIGN3001",
+      "hex": "#E83020"
+    },
+    {
+      "code": "iSIGN0290",
+      "hex": "#E03028"
+    },
+    {
+      "code": "iSIGN3864",
+      "hex": "#D03028"
+    },
+    {
+      "code": "iSIGNA0417",
+      "hex": "#C83028"
+    },
+    {
+      "code": "iSIGN3869",
+      "hex": "#A85858"
+    },
+    {
+      "code": "iSIGNA0510",
+      "hex": "#784848"
+    },
+    {
+      "code": "iSIGN30031",
+      "hex": "#683838"
+    },
+    {
+      "code": "iSIGN30068",
+      "hex": "#584040"
+    },
+    {
+      "code": "iSIGN30055",
+      "hex": "#D8B8A0"
+    },
+    {
+      "code": "iSIGN30050",
+      "hex": "#C8A890"
+    },
+    {
+      "code": "iSIGNA0552",
+      "hex": "#A88878"
+    },
+    {
+      "code": "iSIGN30065",
+      "hex": "#584040"
+    },
+    {
+      "code": "iSIGN20149",
+      "hex": "#E8C0B0"
+    },
+    {
+      "code": "iSIGN3510",
+      "hex": "#E8A890"
+    },
+    {
+      "code": "iSIGN20087",
+      "hex": "#F08878"
+    },
+    {
+      "code": "iSIGN3862",
+      "hex": "#F07070"
+    },
+    {
+      "code": "iSIGN20150",
+      "hex": "#F05858"
+    },
+    {
+      "code": "iSIGN3108",
+      "hex": "#D82848"
+    },
+    {
+      "code": "iSIGN30631",
+      "hex": "#C82040"
+    },
+    {
+      "code": "iSIGN3506",
+      "hex": "#C02040"
+    },
+    {
+      "code": "iSIGN0313",
+      "hex": "#B82040"
+    },
+    {
+      "code": "iSIGN3109",
+      "hex": "#A82848"
+    },
+    {
+      "code": "iSIGN3101",
+      "hex": "#883040"
+    },
+    {
+      "code": "iSIGN20070",
+      "hex": "#784040"
+    },
+    {
+      "code": "iSIGN30046",
+      "hex": "#683840"
+    },
+    {
+      "code": "iSIGN30044",
+      "hex": "#684040"
+    },
+    {
+      "code": "iSIGNA3523",
+      "hex": "#605050"
+    },
+    {
+      "code": "iSIGN30048",
+      "hex": "#484040"
+    },
+    {
+      "code": "iSIGN3106",
+      "hex": "#F04868"
+    },
+    {
+      "code": "iSIGN320066",
+      "hex": "#C82858"
+    },
+    {
+      "code": "iSIGNA0297",
+      "hex": "#C02858"
+    },
+    {
+      "code": "iSIGNA0296",
+      "hex": "#B82858"
+    },
+    {
+      "code": "iSIGN20079",
+      "hex": "#B02858"
+    },
+    {
+      "code": "iSIGN20518",
+      "hex": "#A82858"
+    },
+    {
+      "code": "iSIGN20265",
+      "hex": "#A02858"
+    },
+    {
+      "code": "iSIGN0314",
+      "hex": "#982050"
+    },
+    {
+      "code": "iSIGN3530",
+      "hex": "#E8C8D8"
+    },
+    {
+      "code": "iSIGN3104",
+      "hex": "#E8A8C8"
+    },
+    {
+      "code": "iSIGN20067",
+      "hex": "#F088A8"
+    },
+    {
+      "code": "iSIGN20151",
+      "hex": "#E87898"
+    },
+    {
+      "code": "iSIGN30069",
+      "hex": "#D8B8A8"
+    },
+    {
+      "code": "iSIGN3525",
+      "hex": "#806070"
+    },
+    {
+      "code": "iSIGN3538",
+      "hex": "#D8B8C8"
+    },
+    {
+      "code": "iSIGN3134",
+      "hex": "#D8A8B8"
+    },
+    {
+      "code": "iSIGN3115",
+      "hex": "#E84878"
+    },
+    {
+      "code": "iSIGN3136",
+      "hex": "#E04878"
+    },
+    {
+      "code": "iSIGN20083",
+      "hex": "#C83868"
+    },
+    {
+      "code": "iSIGN3121",
+      "hex": "#A83050"
+    },
+    {
+      "code": "iSIGN20428",
+      "hex": "#983050"
+    },
+    {
+      "code": "iSIGN20082",
+      "hex": "#883050"
+    },
+    {
+      "code": "iSIGN20425",
+      "hex": "#804050"
+    },
+    {
+      "code": "iSIGN20069",
+      "hex": "#784050"
+    },
+    {
+      "code": "iSIGN20086",
+      "hex": "#704050"
+    },
+    {
+      "code": "iSIGN0294",
+      "hex": "#583848"
+    },
+    {
+      "code": "iSIGN3531",
+      "hex": "#D8B8D8"
+    },
+    {
+      "code": "iSIGN20073",
+      "hex": "#D8A8B8"
+    },
+    {
+      "code": "iSIGN3529",
+      "hex": "#E8B8C8"
+    },
+    {
+      "code": "iSIGN3527",
+      "hex": "#E8A8B8"
+    },
+    {
+      "code": "iSIGN4071",
+      "hex": "#D898B8"
+    },
+    {
+      "code": "iSIGN20074",
+      "hex": "#784858"
+    },
+    {
+      "code": "iSIGN30049",
+      "hex": "#604050"
+    },
+    {
+      "code": "iSIGN3514",
+      "hex": "#583850"
+    },
+    {
+      "code": "iSIGNA0189",
+      "hex": "#504050"
+    },
+    {
+      "code": "iSIGN3521",
+      "hex": "#D8B8D8"
+    },
+    {
+      "code": "iSIGN3151",
+      "hex": "#E898D8"
+    },
+    {
+      "code": "iSIGN3536",
+      "hex": "#E8A8C8"
+    },
+    {
+      "code": "iSIGN3114",
+      "hex": "#E848A8"
+    },
+    {
+      "code": "iSIGN3153",
+      "hex": "#D8289 8"
+    },
+    {
+      "code": "iSIGN3144",
+      "hex": "#D82898"
+    },
+    {
+      "code": "iSIGN3155",
+      "hex": "#C82890"
+    },
+    {
+      "code": "iSIGN3163",
+      "hex": "#A83880"
+    },
+    {
+      "code": "iSIGN3534",
+      "hex": "#983870"
+    },
+    {
+      "code": "iSIGN3903",
+      "hex": "#C838A8"
+    },
+    {
+      "code": "iSIGN70158",
+      "hex": "#A838A8"
+    },
+    {
+      "code": "iSIGN3177",
+      "hex": "#983898"
+    },
+    {
+      "code": "iSIGN3165",
+      "hex": "#784070"
+    },
+    {
+      "code": "iSIGN3173",
+      "hex": "#D8B8D8"
+    },
+    {
+      "code": "iSIGN3175",
+      "hex": "#C878C8"
+    },
+    {
+      "code": "iSIGN3161",
+      "hex": "#C858C8"
+    },
+    {
+      "code": "iSIGN70057",
+      "hex": "#984898"
+    },
+    {
+      "code": "iSIGN3200",
+      "hex": "#884888"
+    },
+    {
+      "code": "iSIGN3210",
+      "hex": "#684878"
+    },
+    {
+      "code": "iSIGN70059",
+      "hex": "#504860"
+    },
+    {
+      "code": "iSIGN3543",
+      "hex": "#C8A8D8"
+    },
+    {
+      "code": "iSIGN3901",
+      "hex": "#B858C8"
+    },
+    {
+      "code": "iSIGN3199",
+      "hex": "#A858C8"
+    },
+    {
+      "code": "iSIGN3541",
+      "hex": "#885898"
+    },
+    {
+      "code": "iSIGN3540",
+      "hex": "#785898"
+    },
+    {
+      "code": "iSIGN70056",
+      "hex": "#604878"
+    },
+    {
+      "code": "iSIGN3208",
+      "hex": "#584878"
+    },
+    {
+      "code": "iSIGN70049",
+      "hex": "#988898"
+    },
+    {
+      "code": "iSIGN4085",
+      "hex": "#9888A8"
+    },
+    {
+      "code": "iSIGN20075",
+      "hex": "#887898"
+    },
+    {
+      "code": "iSIGN4084",
+      "hex": "#887898"
+    },
+    {
+      "code": "iSIGN70042",
+      "hex": "#685878"
+    },
+    {
+      "code": "iSIGN70058",
+      "hex": "#584870"
+    },
+    {
+      "code": "iSIGN70061",
+      "hex": "#403850"
+    },
+    {
+      "code": "iSIGN3545",
+      "hex": "#D8C8E8"
+    },
+    {
+      "code": "iSIGN3204",
+      "hex": "#B8A8D8"
+    },
+    {
+      "code": "iSIGN70093",
+      "hex": "#A898D8"
+    },
+    {
+      "code": "iSIGN70129",
+      "hex": "#9888C8"
+    },
+    {
+      "code": "iSIGN70052",
+      "hex": "#7858A8"
+    },
+    {
+      "code": "iSIGN70068",
+      "hex": "#584898"
+    },
+    {
+      "code": "iSIGN70053",
+      "hex": "#403860"
+    },
+    {
+      "code": "iSIGN3547",
+      "hex": "#584878"
+    },
+    {
+      "code": "iSIGN3929",
+      "hex": "#B8B8D8"
+    },
+    {
+      "code": "iSIGN70063",
+      "hex": "#9898C8"
+    },
+    {
+      "code": "iSIGN1470",
+      "hex": "#484878"
+    },
+    {
+      "code": "iSIGN70040",
+      "hex": "#504860"
+    },
+    {
+      "code": "iSIGN9603",
+      "hex": "#485898"
+    },
+    {
+      "code": "iSIGN0296",
+      "hex": "#484878"
+    },
+    {
+      "code": "iSIGN3713",
+      "hex": "#B8B8C8"
+    },
+    {
+      "code": "iSIGN4093",
+      "hex": "#8898B8"
+    },
+    {
+      "code": "iSIGN4091",
+      "hex": "#485070"
+    },
+    {
+      "code": "iSIGN3946",
+      "hex": "#3858A8"
+    },
+    {
+      "code": "iSIGN70159",
+      "hex": "#384898"
+    },
+    {
+      "code": "iSIGN70035",
+      "hex": "#384878"
+    },
+    {
+      "code": "iSIGNA1433",
+      "hex": "#A8D8E8"
+    },
+    {
+      "code": "iSIGN60103",
+      "hex": "#5898D8"
+    },
+    {
+      "code": "iSIGN3950",
+      "hex": "#2868C8"
+    },
+    {
+      "code": "iSIGN3942",
+      "hex": "#2858C8"
+    },
+    {
+      "code": "iSIGN60324",
+      "hex": "#284898"
+    },
+    {
+      "code": "iSIGN60169",
+      "hex": "#285898"
+    },
+    {
+      "code": "iSIGN70099",
+      "hex": "#485898"
+    },
+    {
+      "code": "iSIGN70034",
+      "hex": "#384878"
+    },
+    {
+      "code": "iSIGN60141",
+      "hex": "#384870"
+    },
+    {
+      "code": "iSIGN70044",
+      "hex": "#384860"
+    },
+    {
+      "code": "iSIGN60587",
+      "hex": "#485860"
+    },
+    {
+      "code": "iSIGN60766",
+      "hex": "#3868A8"
+    },
+    {
+      "code": "iSIGN60110",
+      "hex": "#385898"
+    },
+    {
+      "code": "iSIGN60130",
+      "hex": "#385098"
+    },
+    {
+      "code": "iSIGN3962",
+      "hex": "#385098"
+    },
+    {
+      "code": "iSIGN20076",
+      "hex": "#384850"
+    },
+    {
+      "code": "iSIGN60159",
+      "hex": "#A8C8D8"
+    },
+    {
+      "code": "iSIGN60152",
+      "hex": "#98B8D8"
+    },
+    {
+      "code": "iSIGN3567",
+      "hex": "#88C8E8"
+    },
+    {
+      "code": "iSIGN60079",
+      "hex": "#6898B8"
+    },
+    {
+      "code": "iSIGN3691",
+      "hex": "#4888B8"
+    },
+    {
+      "code": "iSIGN60150",
+      "hex": "#2858A8"
+    },
+    {
+      "code": "iSIGN60078",
+      "hex": "#385870"
+    },
+    {
+      "code": "iSIGN3707",
+      "hex": "#68A8D8"
+    },
+    {
+      "code": "iSIGN3241",
+      "hex": "#3888C8"
+    },
+    {
+      "code": "iSIGN60129",
+      "hex": "#2858A8"
+    },
+    {
+      "code": "iSIGN60589",
+      "hex": "#285898"
+    },
+    {
+      "code": "iSIGN60762",
+      "hex": "#285088"
+    },
+    {
+      "code": "iSIGN60149",
+      "hex": "#384870"
+    },
+    {
+      "code": "iSIGN3238",
+      "hex": "#88C8E8"
+    },
+    {
+      "code": "iSIGN60120",
+      "hex": "#4898D8"
+    },
+    {
+      "code": "iSIGN3250",
+      "hex": "#2878B8"
+    },
+    {
+      "code": "iSIGN3249",
+      "hex": "#88C8E8"
+    },
+    {
+      "code": "iSIGN60765",
+      "hex": "#3888D8"
+    },
+    {
+      "code": "iSIGN3239",
+      "hex": "#3888D8"
+    },
+    {
+      "code": "iSIGN60763",
+      "hex": "#78B8D8"
+    },
+    {
+      "code": "iSIGN3259",
+      "hex": "#2878B8"
+    },
+    {
+      "code": "iSIGN60156",
+      "hex": "#285870"
+    },
+    {
+      "code": "iSIGN60155",
+      "hex": "#288850"
+    },
+    {
+      "code": "iSIGN3269",
+      "hex": "#287848"
+    },
+    {
+      "code": "iSIGN3681",
+      "hex": "#287848"
+    },
+    {
+      "code": "iSIGN60123",
+      "hex": "#287848"
+    },
+    {
+      "code": "iSIGN0312",
+      "hex": "#286848"
+    },
+    {
+      "code": "iSIGN60590",
+      "hex": "#2878A8"
+    },
+    {
+      "code": "iSIGN60174",
+      "hex": "#2868A8"
+    },
+    {
+      "code": "iSIGN3569",
+      "hex": "#98A8B8"
+    },
+    {
+      "code": "iSIGN60098",
+      "hex": "#889898"
+    },
+    {
+      "code": "iSIGN60593",
+      "hex": "#788888"
+    },
+    {
+      "code": "iSIGN60099",
+      "hex": "#788888"
+    },
+    {
+      "code": "iSIGN6402",
+      "hex": "#587878"
+    },
+    {
+      "code": "iSIGN50124",
+      "hex": "#485860"
+    },
+    {
+      "code": "iSIGN3986",
+      "hex": "#78D8E8"
+    },
+    {
+      "code": "iSIGN60088",
+      "hex": "#38C8D8"
+    },
+    {
+      "code": "iSIGN3992",
+      "hex": "#38B8C8"
+    },
+    {
+      "code": "iSIGN3276",
+      "hex": "#88D8E8"
+    },
+    {
+      "code": "iSIGN60637",
+      "hex": "#58B8D8"
+    },
+    {
+      "code": "iSIGN60105",
+      "hex": "#3898C8"
+    },
+    {
+      "code": "iSIGN60072",
+      "hex": "#2888B8"
+    },
+    {
+      "code": "iSIGN60277",
+      "hex": "#287898"
+    },
+    {
+      "code": "iSIGN60092",
+      "hex": "#A8C8C8"
+    },
+    {
+      "code": "iSIGN60077",
+      "hex": "#98B8B8"
+    },
+    {
+      "code": "iSIGN4116",
+      "hex": "#689898"
+    },
+    {
+      "code": "iSIGN3286",
+      "hex": "#58C8C8"
+    },
+    {
+      "code": "iSIGN60588",
+      "hex": "#28A8A8"
+    },
+    {
+      "code": "iSIGN60164",
+      "hex": "#289898"
+    },
+    {
+      "code": "iSIGN60121",
+      "hex": "#288888"
+    },
+    {
+      "code": "iSIGN60094",
+      "hex": "#587878"
+    },
+    {
+      "code": "iSIGN60162",
+      "hex": "#286860"
+    },
+    {
+      "code": "iSIGN60075",
+      "hex": "#285850"
+    },
+    {
+      "code": "iSIGN3616",
+      "hex": "#C8E8E8"
+    },
+    {
+      "code": "iSIGN3296",
+      "hex": "#98D8D8"
+    },
+    {
+      "code": "iSIGN50126",
+      "hex": "#88C8C8"
+    },
+    {
+      "code": "iSIGNA1142",
+      "hex": "#68C8B8"
+    },
+    {
+      "code": "iSIGN50098",
+      "hex": "#38B898"
+    },
+    {
+      "code": "iSIGN50107",
+      "hex": "#28A888"
+    },
+    {
+      "code": "iSIGN4019",
+      "hex": "#286850"
+    },
+    {
+      "code": "iSIGN3309",
+      "hex": "#58C8A8"
+    },
+    {
+      "code": "iSIGNA1137",
+      "hex": "#38B888"
+    },
+    {
+      "code": "iSIGN4027",
+      "hex": "#28A868"
+    },
+    {
+      "code": "iSIGN1138",
+      "hex": "#289858"
+    },
+    {
+      "code": "iSIGNA1146",
+      "hex": "#286850"
+    },
+    {
+      "code": "iSIGN50078",
+      "hex": "#285848"
+    },
+    {
+      "code": "iSIGN60090",
+      "hex": "#C8E8D8"
+    },
+    {
+      "code": "iSIGN3661",
+      "hex": "#B8D8C8"
+    },
+    {
+      "code": "iSIGN3663",
+      "hex": "#A8C8B8"
+    },
+    {
+      "code": "iSIGN3665",
+      "hex": "#789888"
+    },
+    {
+      "code": "iSIGN4140",
+      "hex": "#688878"
+    },
+    {
+      "code": "iSIGN50604",
+      "hex": "#287838"
+    },
+    {
+      "code": "iSIGN0287",
+      "hex": "#288838"
+    },
+    {
+      "code": "iSIGN0281",
+      "hex": "#288830"
+    },
+    {
+      "code": "iSIGN3322",
+      "hex": "#286830"
+    },
+    {
+      "code": "iSIGN50113",
+      "hex": "#285830"
+    },
+    {
+      "code": "iSIGN50486",
+      "hex": "#285030"
+    },
+    {
+      "code": "iSIGN50103",
+      "hex": "#D8E8C8"
+    },
+    {
+      "code": "iSIGNA1900",
+      "hex": "#C8D8B8"
+    },
+    {
+      "code": "iSIGN4143",
+      "hex": "#B8C8A8"
+    },
+    {
+      "code": "iSIGN3448",
+      "hex": "#A8B8A8"
+    },
+    {
+      "code": "iSIGN4120",
+      "hex": "#889898"
+    },
+    {
+      "code": "iSIGN3450",
+      "hex": "#788888"
+    },
+    {
+      "code": "iSIGN4118",
+      "hex": "#687878"
+    },
+    {
+      "code": "iSIGN50135",
+      "hex": "#586868"
+    },
+    {
+      "code": "iSIGN4114",
+      "hex": "#586860"
+    },
+    {
+      "code": "iSIGN3325",
+      "hex": "#A8E898"
+    },
+    {
+      "code": "iSIGN50115",
+      "hex": "#88D878"
+    },
+    {
+      "code": "iSIGN3328",
+      "hex": "#38C838"
+    },
+    {
+      "code": "iSIGN50487",
+      "hex": "#28A838"
+    },
+    {
+      "code": "iSIGN50603",
+      "hex": "#289838"
+    },
+    {
+      "code": "iSIGN50496",
+      "hex": "#288838"
+    },
+    {
+      "code": "iSIGN50114",
+      "hex": "#286830"
+    },
+    {
+      "code": "iSIGN3330",
+      "hex": "#287828"
+    },
+    {
+      "code": "iSIGN3342",
+      "hex": "#A8D868"
+    },
+    {
+      "code": "iSIGN50537",
+      "hex": "#78C838"
+    },
+    {
+      "code": "iSIGN3621",
+      "hex": "#98B878"
+    },
+    {
+      "code": "iSIGN50244",
+      "hex": "#88A858"
+    },
+    {
+      "code": "iSIGN50243",
+      "hex": "#789848"
+    },
+    {
+      "code": "iSIGN3362",
+      "hex": "#C8E838"
+    },
+    {
+      "code": "iSIGN3365",
+      "hex": "#98C828"
+    },
+    {
+      "code": "iSIGN50119",
+      "hex": "#688838"
+    },
+    {
+      "code": "iSIGN50129",
+      "hex": "#C8C898"
+    },
+    {
+      "code": "iSIGN4155",
+      "hex": "#A8A878"
+    },
+    {
+      "code": "iSIGN50131",
+      "hex": "#888858"
+    },
+    {
+      "code": "iSIGN50069",
+      "hex": "#686850"
+    },
+    {
+      "code": "iSIGN50104",
+      "hex": "#585848"
+    },
+    {
+      "code": "iSIGN3358",
+      "hex": "#D8E8A8"
+    },
+    {
+      "code": "iSIGN50118",
+      "hex": "#C8D888"
+    },
+    {
+      "code": "iSIGN50084",
+      "hex": "#B8C878"
+    },
+    {
+      "code": "iSIGN3631",
+      "hex": "#D8E828"
+    },
+    {
+      "code": "iSIGN3376",
+      "hex": "#D8E848"
+    },
+    {
+      "code": "iSIGN50497",
+      "hex": "#C8D838"
+    },
+    {
+      "code": "iSIGN3378",
+      "hex": "#C8D828"
+    },
+    {
+      "code": "iSIGN50080",
+      "hex": "#A8B838"
+    },
+    {
+      "code": "iSIGN50072",
+      "hex": "#889838"
+    },
+    {
+      "code": "iSIGN3366",
+      "hex": "#788848"
+    },
+    {
+      "code": "iSIGN50092",
+      "hex": "#E8E8C8"
+    },
+    {
+      "code": "iSIGN3636",
+      "hex": "#E8E8B8"
+    },
+    {
+      "code": "iSIGN50091",
+      "hex": "#D8D8A8"
+    },
+    {
+      "code": "iSIGN4167",
+      "hex": "#B8B888"
+    },
+    {
+      "code": "iSIGN4169",
+      "hex": "#A8A878"
+    },
+    {
+      "code": "iSIGN3462",
+      "hex": "#D8D8C8"
+    },
+    {
+      "code": "iSIGN3459",
+      "hex": "#989868"
+    },
+    {
+      "code": "iSIGNA0141",
+      "hex": "#E8E8E8"
+    },
+    {
+      "code": "iSIGN70071",
+      "hex": "#C8B8C8"
+    },
+    {
+      "code": "iSIGN3440",
+      "hex": "#B8A8B8"
+    },
+    {
+      "code": "iSIGN3442",
+      "hex": "#988898"
+    },
+    {
+      "code": "iSIGNA0001",
+      "hex": "#E8E8E8"
+    },
+    {
+      "code": "iSIGN80070",
+      "hex": "#A8A8A8"
+    },
+    {
+      "code": "iSIGN80067",
+      "hex": "#888888"
+    },
+    {
+      "code": "iSIGN3445",
+      "hex": "#484848"
+    },
+    {
+      "code": "iSIGN80080",
+      "hex": "#D8D8D8"
+    },
+    {
+      "code": "iSIGN80096",
+      "hex": "#B8B8B8"
+    },
+    {
+      "code": "iSIGN80094",
+      "hex": "#989898"
+    },
+    {
+      "code": "iSIGNA0072",
+      "hex": "#E8E8D8"
+    },
+    {
+      "code": "iSIGN80118",
+      "hex": "#D8D8C8"
+    },
+    {
+      "code": "iSIGN80099",
+      "hex": "#C8C8B8"
+    },
+    {
+      "code": "iSIGN80077",
+      "hex": "#A8A898"
+    },
+    {
+      "code": "iSIGN80098",
+      "hex": "#989888"
+    },
+    {
+      "code": "iSIGN3391",
+      "hex": "#888878"
+    },
+    {
+      "code": "iSIGN3393",
+      "hex": "#787868"
+    },
+    {
+      "code": "iSIGN80090",
+      "hex": "#585858"
+    },
+    {
+      "code": "iSIGNA0108",
+      "hex": "#E8E8D8"
+    },
+    {
+      "code": "iSIGN5415",
+      "hex": "#C8C8A8"
+    },
+    {
+      "code": "iSIGN3410",
+      "hex": "#989888"
+    },
+    {
+      "code": "iSIGN1890",
+      "hex": "#787868"
+    },
+    {
+      "code": "iSIGNA0106",
+      "hex": "#E8E8E8"
+    },
+    {
+      "code": "iSIGNA0137",
+      "hex": "#D8D8D8"
+    },
+    {
+      "code": "iSIGN4182",
+      "hex": "#C8C8C8"
+    },
+    {
+      "code": "iSIGN80432",
+      "hex": "#B8B8B8"
+    },
+    {
+      "code": "iSIGN3418",
+      "hex": "#A8A8A8"
+    },
+    {
+      "code": "iSIGN80114",
+      "hex": "#888888"
+    }
+  ],
+  "families": {
+    "Yellows & Golds": [
+      "iSIGN3004",
+      "iSIGN3640",
+      "iSIGN40082",
+      "iSIGN4032",
+      "iSIGN40093",
+      "iSIGN0282",
+      "iSIGN3664",
+      "iSIGN4035",
+      "iSIGN40071",
+      "iSIGN40076",
+      "iSIGN3006",
+      "iSIGN40315",
+      "iSIGN40348",
+      "iSIGN40083",
+      "iSIGN3467",
+      "iSIGN3465",
+      "iSIGN3009",
+      "iSIGN4037",
+      "iSIGN4164",
+      "iSIGN40346",
+      "iSIGN40318",
+      "iSIGN40319",
+      "iSIGN9864",
+      "iSIGN40088",
+      "iSIGN3041",
+      "iSIGN3031",
+      "iSIGNA0489",
+      "iSIGNA0695",
+      "iSIGN40217",
+      "iSIGN40364",
+      "iSIGN30621",
+      "iSIGN50123",
+      "iSIGNA0896",
+      "iSIGN40078",
+      "iSIGN40073",
+      "iSIGN3835",
+      "iSIGN50086",
+      "iSIGN3836",
+      "iSIGN30053",
+      "iSIGN3050",
+      "iSIGN3058",
+      "iSIGN40087"
+    ],
+    "Oranges & Browns": [
+      "iSIGN3044",
+      "iSIGN3046",
+      "iSIGN3833",
+      "iSIGN3042",
+      "iSIGN50106",
+      "iSIGN40359",
+      "iSIGN40320",
+      "iSIGNA0686",
+      "iSIGN40097",
+      "iSIGNA0725",
+      "iSIGN40092",
+      "iSIGN30630",
+      "iSIGN30622",
+      "iSIGN40080",
+      "iSIGN30028",
+      "iSIGNA0586",
+      "iSIGN3839",
+      "iSIGN3845",
+      "iSIGNA0527",
+      "iSIGN3763",
+      "iSIGN3844",
+      "iSIGN3765",
+      "iSIGN3077",
+      "iSIGN30114",
+      "iSIGN3063",
+      "iSIGN40089",
+      "iSIGN30036",
+      "iSIGNA30063",
+      "iSIGN0306",
+      "iSIGN30032",
+      "iSIGN3491",
+      "iSIGN3069",
+      "iSIGN30029",
+      "iSIGN30846",
+      "iSIGN3486",
+      "iSIGNA0509",
+      "iSIGN0530",
+      "iSIGN30061",
+      "iSIGN3513",
+      "iSIGN3084",
+      "iSIGN0508",
+      "iSIGN3078"
+    ],
+    "Reds & Pinks": [
+      "iSIGN30436",
+      "iSIGN3001",
+      "iSIGN0290",
+      "iSIGN3864",
+      "iSIGNA0417",
+      "iSIGN3869",
+      "iSIGNA0510",
+      "iSIGN30031",
+      "iSIGN30068",
+      "iSIGN30055",
+      "iSIGN30050",
+      "iSIGNA0552",
+      "iSIGN30065",
+      "iSIGN20149",
+      "iSIGN3510",
+      "iSIGN20087",
+      "iSIGN3862",
+      "iSIGN20150",
+      "iSIGN3108",
+      "iSIGN30631",
+      "iSIGN3506",
+      "iSIGN0313",
+      "iSIGN3109",
+      "iSIGN3101",
+      "iSIGN20070",
+      "iSIGN30046",
+      "iSIGN30044",
+      "iSIGNA3523",
+      "iSIGN30048",
+      "iSIGN3106",
+      "iSIGN320066",
+      "iSIGNA0297",
+      "iSIGNA0296",
+      "iSIGN20079",
+      "iSIGN20518",
+      "iSIGN20265",
+      "iSIGN0314",
+      "iSIGN3530",
+      "iSIGN3104",
+      "iSIGN20067",
+      "iSIGN20151",
+      "iSIGN30069"
+    ],
+    "Purples & Magentas": [
+      "iSIGN3525",
+      "iSIGN3538",
+      "iSIGN3134",
+      "iSIGN3115",
+      "iSIGN3136",
+      "iSIGN20083",
+      "iSIGN3121",
+      "iSIGN20428",
+      "iSIGN20082",
+      "iSIGN20425",
+      "iSIGN20069",
+      "iSIGN20086",
+      "iSIGN0294",
+      "iSIGN3531",
+      "iSIGN20073",
+      "iSIGN3529",
+      "iSIGN3527",
+      "iSIGN4071",
+      "iSIGN20074",
+      "iSIGN30049",
+      "iSIGN3514",
+      "iSIGNA0189",
+      "iSIGN3521",
+      "iSIGN3151",
+      "iSIGN3536",
+      "iSIGN3114",
+      "iSIGN3153",
+      "iSIGN3144",
+      "iSIGN3155",
+      "iSIGN3163",
+      "iSIGN3534",
+      "iSIGN3903",
+      "iSIGN70158",
+      "iSIGN3177",
+      "iSIGN3165",
+      "iSIGN3173",
+      "iSIGN3175",
+      "iSIGN3161",
+      "iSIGN70057",
+      "iSIGN3200",
+      "iSIGN3210",
+      "iSIGN70059",
+      "iSIGN3543",
+      "iSIGN3901",
+      "iSIGN3199",
+      "iSIGN3541",
+      "iSIGN3540",
+      "iSIGN70056"
+    ],
+    "Blues": [
+      "iSIGN3208",
+      "iSIGN70049",
+      "iSIGN4085",
+      "iSIGN20075",
+      "iSIGN4084",
+      "iSIGN70042",
+      "iSIGN70058",
+      "iSIGN70061",
+      "iSIGN3545",
+      "iSIGN3204",
+      "iSIGN70093",
+      "iSIGN70129",
+      "iSIGN70052",
+      "iSIGN70068",
+      "iSIGN70053",
+      "iSIGN3547",
+      "iSIGN3929",
+      "iSIGN70063",
+      "iSIGN1470",
+      "iSIGN70040",
+      "iSIGN9603",
+      "iSIGN0296",
+      "iSIGN3713",
+      "iSIGN4093",
+      "iSIGN4091",
+      "iSIGN3946",
+      "iSIGN70159",
+      "iSIGN70035",
+      "iSIGNA1433",
+      "iSIGN60103",
+      "iSIGN3950",
+      "iSIGN3942",
+      "iSIGN60324",
+      "iSIGN60169",
+      "iSIGN70099",
+      "iSIGN70034",
+      "iSIGN60141",
+      "iSIGN70044",
+      "iSIGN60587",
+      "iSIGN60766",
+      "iSIGN60110",
+      "iSIGN60130",
+      "iSIGN3962",
+      "iSIGN20076",
+      "iSIGN60159",
+      "iSIGN60152",
+      "iSIGN3567",
+      "iSIGN60079",
+      "iSIGN3691",
+      "iSIGN60150",
+      "iSIGN60078",
+      "iSIGN3707",
+      "iSIGN3241",
+      "iSIGN60129",
+      "iSIGN60589",
+      "iSIGN60762",
+      "iSIGN60149",
+      "iSIGN3238",
+      "iSIGN60120",
+      "iSIGN3250",
+      "iSIGN3249",
+      "iSIGN60765",
+      "iSIGN3239",
+      "iSIGN60763",
+      "iSIGN3567",
+      "iSIGN3259",
+      "iSIGN60156",
+      "iSIGN60155",
+      "iSIGN3269",
+      "iSIGN3681",
+      "iSIGN60123",
+      "iSIGN0312",
+      "iSIGN60590",
+      "iSIGN60174",
+      "iSIGN3569",
+      "iSIGN60098",
+      "iSIGN60593",
+      "iSIGN60099"
+    ],
+    "Teals & Cyans": [
+      "iSIGN6402",
+      "iSIGN50124",
+      "iSIGN3986",
+      "iSIGN60088",
+      "iSIGN3992",
+      "iSIGN3276",
+      "iSIGN60637",
+      "iSIGN60105",
+      "iSIGN60072",
+      "iSIGN60277",
+      "iSIGN60092",
+      "iSIGN60077",
+      "iSIGN4116",
+      "iSIGN3286",
+      "iSIGN60588",
+      "iSIGN60164",
+      "iSIGN60121",
+      "iSIGN60094",
+      "iSIGN60162",
+      "iSIGN60075",
+      "iSIGN3616",
+      "iSIGN3296",
+      "iSIGN50126",
+      "iSIGNA1142",
+      "iSIGN50098",
+      "iSIGN50107",
+      "iSIGN4019",
+      "iSIGN3309",
+      "iSIGNA1137",
+      "iSIGN4027",
+      "iSIGN1138",
+      "iSIGN60155",
+      "iSIGN3269",
+      "iSIGN3681",
+      "iSIGN60123",
+      "iSIGN0312",
+      "iSIGNA1146",
+      "iSIGN50078",
+      "iSIGN60090",
+      "iSIGN3661",
+      "iSIGN3663",
+      "iSIGN3664"
+    ],
+    "Greens": [
+      "iSIGN3665",
+      "iSIGN4140",
+      "iSIGN50604",
+      "iSIGN0287",
+      "iSIGN0281",
+      "iSIGN3322",
+      "iSIGN50113",
+      "iSIGN50486",
+      "iSIGN50103",
+      "iSIGNA1900",
+      "iSIGN4143",
+      "iSIGN3448",
+      "iSIGN4120",
+      "iSIGN3450",
+      "iSIGN4118",
+      "iSIGN50135",
+      "iSIGN4114",
+      "iSIGN3325",
+      "iSIGN50115",
+      "iSIGN3328",
+      "iSIGN50487",
+      "iSIGN50603",
+      "iSIGN50496",
+      "iSIGN50114",
+      "iSIGN3330",
+      "iSIGN3342",
+      "iSIGN50537",
+      "iSIGN3621",
+      "iSIGN50244",
+      "iSIGN50243",
+      "iSIGN3362",
+      "iSIGN3365",
+      "iSIGN50119",
+      "iSIGN50129",
+      "iSIGN4155",
+      "iSIGN50131",
+      "iSIGN50069",
+      "iSIGN50104",
+      "iSIGN3358",
+      "iSIGN50118",
+      "iSIGN50084",
+      "iSIGN3631"
+    ],
+    "Neutrals & Grays": [
+      "iSIGN3376",
+      "iSIGN50497",
+      "iSIGN3378",
+      "iSIGN50080",
+      "iSIGN50072",
+      "iSIGN3366",
+      "iSIGN50092",
+      "iSIGN3636",
+      "iSIGN50091",
+      "iSIGN4167",
+      "iSIGN4169",
+      "iSIGN3462",
+      "iSIGN3459",
+      "iSIGNA0141",
+      "iSIGN70071",
+      "iSIGN3440",
+      "iSIGN3442",
+      "iSIGNA0001",
+      "iSIGN80070",
+      "iSIGN80067",
+      "iSIGN3445",
+      "iSIGN80080",
+      "iSIGN80096",
+      "iSIGN80094",
+      "iSIGNA0072",
+      "iSIGN80118",
+      "iSIGN80099",
+      "iSIGN80077",
+      "iSIGN80098",
+      "iSIGN3391",
+      "iSIGN3393",
+      "iSIGN80090",
+      "iSIGNA0108",
+      "iSIGN5415",
+      "iSIGN3410",
+      "iSIGN1890",
+      "iSIGNA0106",
+      "iSIGNA0137",
+      "iSIGN4182",
+      "iSIGN80432",
+      "iSIGN3418",
+      "iSIGN80114"
+    ]
+  }
+}
